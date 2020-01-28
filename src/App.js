@@ -61,7 +61,7 @@ class App extends Component {
     return (
       <div>
         <Document
-          file="/PDFViewer/Web Design for Developers.pdf"
+          file="/Web Design for Developers.pdf"
           pdf={pdf}
           onLoadSuccess={this.onDocumentLoadSuccess}
           onItemClick={this.outlineItemClick}
