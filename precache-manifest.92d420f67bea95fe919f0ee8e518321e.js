@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b8a824837e4a3df7ddf085db66201e4",
+    "revision": "82df2f862234fa29ad5b4a81544c8221",
     "url": "/PDFViewer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PDFViewer/static/css/2.0862dc20.chunk.css"
   },
   {
-    "revision": "2b58502874ed943073d5",
+    "revision": "72cbe1a7705851d7dd8a",
     "url": "/PDFViewer/static/css/main.00b1f234.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PDFViewer/static/js/2.be8ce180.chunk.js.LICENSE"
   },
   {
-    "revision": "2b58502874ed943073d5",
-    "url": "/PDFViewer/static/js/main.2e7ba359.chunk.js"
+    "revision": "72cbe1a7705851d7dd8a",
+    "url": "/PDFViewer/static/js/main.036be0d7.chunk.js"
   },
   {
     "revision": "212dbb86087d9ad7a4f8",
